@@ -14,8 +14,10 @@ This project is a **dynamic quiz generator** that extracts text from a PDF, gene
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/dynamic-quiz-generator.git
-   cd dynamic-quiz-generator
+   # Clone the repository
+   git clone https://github.com/AyazAhmed13/DynamicQuizGen.git
+   # Navigate into the project directory
+   cd DynamicQuizGen
    ```
 
 2. **Install dependencies:**
